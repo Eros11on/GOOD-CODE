@@ -1,0 +1,20 @@
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shapes\bin\Debug\ShapesInh.exe
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shapes\bin\Debug\ShapesInh.pdb
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shapes\obj\x86\Debug\ShapesInh.exe
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shapes\obj\x86\Debug\ShapesInh.pdb
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shape\obj\x86\Debug\ShapesInh.exe
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shape\obj\x86\Debug\ShapesInh.pdb
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shape\bin\Debug\ShapesInh.exe
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shape\bin\Debug\ShapesInh.pdb
+C:\Users\BHF\Desktop\编程兼职\C#\类与对象- 图形间的继承关系示例代码\第二次作业示例代码\Shapes\Shape\bin\Debug\ShapesInh.exe
+C:\Users\BHF\Desktop\编程兼职\C#\类与对象- 图形间的继承关系示例代码\第二次作业示例代码\Shapes\Shape\bin\Debug\ShapesInh.pdb
+C:\Users\BHF\Desktop\编程兼职\C#\类与对象- 图形间的继承关系示例代码\第二次作业示例代码\Shapes\Shape\obj\x86\Debug\Shape.csprojAssemblyReference.cache
+C:\Users\BHF\Desktop\编程兼职\C#\类与对象- 图形间的继承关系示例代码\第二次作业示例代码\Shapes\Shape\obj\x86\Debug\Shape.csproj.CoreCompileInputs.cache
+C:\Users\BHF\Desktop\编程兼职\C#\类与对象- 图形间的继承关系示例代码\第二次作业示例代码\Shapes\Shape\obj\x86\Debug\ShapesInh.exe
+C:\Users\BHF\Desktop\编程兼职\C#\类与对象- 图形间的继承关系示例代码\第二次作业示例代码\Shapes\Shape\obj\x86\Debug\ShapesInh.pdb
+C:\Users\10676\Desktop\Shapes\Shape\bin\Debug\ShapesInh.exe
+C:\Users\10676\Desktop\Shapes\Shape\bin\Debug\ShapesInh.pdb
+C:\Users\10676\Desktop\Shapes\Shape\obj\x86\Debug\Shape.csprojAssemblyReference.cache
+C:\Users\10676\Desktop\Shapes\Shape\obj\x86\Debug\Shape.csproj.CoreCompileInputs.cache
+C:\Users\10676\Desktop\Shapes\Shape\obj\x86\Debug\ShapesInh.exe
+C:\Users\10676\Desktop\Shapes\Shape\obj\x86\Debug\ShapesInh.pdb

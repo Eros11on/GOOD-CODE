@@ -1,0 +1,6 @@
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\ShapesInh\obj\x86\Debug\ShapesInh.exe
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\ShapesInh\obj\x86\Debug\ShapesInh.pdb
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shapes\bin\Debug\ShapesInh.exe
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shapes\bin\Debug\ShapesInh.pdb
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shapes\obj\x86\Debug\ShapesInh.exe
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shapes\obj\x86\Debug\ShapesInh.pdb

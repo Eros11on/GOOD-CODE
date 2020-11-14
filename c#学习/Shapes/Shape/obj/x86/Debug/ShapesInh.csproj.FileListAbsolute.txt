@@ -1,0 +1,12 @@
+C:\projects\Shapes1\ShapesInh\bin\Debug\ShapesInh.exe
+C:\projects\Shapes1\ShapesInh\bin\Debug\ShapesInh.pdb
+C:\projects\Shapes1\ShapesInh\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\projects\Shapes1\ShapesInh\obj\x86\Debug\ShapesInh.exe
+C:\projects\Shapes1\ShapesInh\obj\x86\Debug\ShapesInh.pdb
+C:\projects\Shapes\ShapesInh\obj\x86\Debug\ShapesInh.pdb
+C:\projects\Shapes\ShapesInh\bin\Debug\ShapesInh.exe
+C:\projects\Shapes\ShapesInh\bin\Debug\ShapesInh.pdb
+C:\projects\Shapes\ShapesInh\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\projects\Shapes\ShapesInh\obj\x86\Debug\ShapesInh.exe
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\ShapesInh\obj\x86\Debug\ShapesInh.exe
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\ShapesInh\obj\x86\Debug\ShapesInh.pdb
